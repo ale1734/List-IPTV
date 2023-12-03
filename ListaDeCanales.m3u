@@ -1,9 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="AiredeSantaFe.ar" tvg-logo="https://i.imgur.com/60vSWW0.png" group-title="Noticias",Aire de Santa Fe (1080p)
-https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AiredeSantaFe.ar" tvg-logo="https://i.imgur.com/60vSWW0.png" group-title="Noticias",CN 24/7
+https://list.iptvcat.com/my_list/s/bd1ff1f16c00ec85c0317e4e95160ae9.m3u8
 
-#EXTINF:-1 tvg-id="TelefeNoticias.us" tvg-logo="https://i.imgur.com/GwdSxzV.png" group-title="Noticias",Telefe Noticias (720p) [Not 24/7]
-https://siloh-mcdn.plutotv.net/lilo/production/LATAM/Telefe/master.m3u8
-
+#EXTINF:-1 tvg-id="TelefeNoticias.us" tvg-logo="https://i.imgur.com/GwdSxzV.png" group-title="Noticias", Aire de Santa Fe
+https://list.iptvcat.com/my_list/s/be97793e46806f19b189ddac31abad8e.m3u8
 
