@@ -1,8 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="AiredeSantaFe.ar" tvg-logo="https://i.imgur.com/60vSWW0.png" group-title="Noticias", AR:CN 24/7
+#EXTINF:-1, tvg-id="AiredeSantaFe.ar" tvg-logo="https://i.imgur.com/60vSWW0.png" group-title="Noticias", AR:CN 24/7
 https://list.iptvcat.com/my_list/s/bd1ff1f16c00ec85c0317e4e95160ae9.m3u8
 
-#EXTINF:-1 tvg-id="TelefeNoticias.us" tvg-logo="https://i.imgur.com/GwdSxzV.png" group-title="Noticias", AR:Aire de Santa Fe
-https://iptv-org.github.io/iptv/index.country.m3u
+#EXTINF:-1,tvg-id="TelefeNoticias.us",tvg-logo="https://i.imgur.com/GwdSxzV.png",group-title="Noticias",Aire de Santa Fe
+https://list.iptvcat.com/my_list/s/be97793e46806f19b189ddac31abad8e.m3u8
 
